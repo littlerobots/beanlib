@@ -1,3 +1,6 @@
+# This project is no longer updated #
+This project has transitioned into the [official sdk][7]. 
+
 # README #
 
 This is an unofficial SDK for the [Punch Through Design Bean][1]. The library allows for communication with the bean and control its various functions.
@@ -99,3 +102,4 @@ This code is licensed under the MIT license.
 [4]:http://twitter.com/botteaap
 [5]:http://beantalk.punchthrough.com/
 [6]:http://beantalk.punchthrough.com/users/hvisser/
+[7]:https://github.com/PunchThrough/Bean-Android-SDK
